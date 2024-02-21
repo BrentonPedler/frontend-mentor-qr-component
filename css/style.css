@@ -3,11 +3,12 @@ body {
 }
 
 .container {
-	background-color: #cfdced;
+	background-color: hsl(212, 45%, 89%);
 	display: flex;
 	align-items: center;
+	margin: 0 auto;
 	height: calc(100vh - 25px);
-	width: 100vw;
+	width: 1440px;
 }
 
 .content__parent {
@@ -31,17 +32,21 @@ body {
 }
 
 .content__text {
-	font-family: "Open Sans", sans-serif;
+	font-family: "Outfit", sans-serif;
 	text-align: center;
 	padding: 5px 10px 10px 10px;
 }
 
 .content__text h2 {
+	color: hsl(218, 44%, 22%);
 	font-size: 22px;
+	font-weight: 700;
 }
 
 .content__text p {
-	color: #9c9da0;
+	color: hsl(220, 15%, 55%);
+	font-size: 15px;
+	font-weight: 400;
 }
 
 .attribution {
@@ -51,4 +56,10 @@ body {
 
 .attribution a {
 	color: hsl(228, 45%, 44%);
+}
+
+@media only screen and (max-width: 600px) {
+  .container {
+		width: 375px;
+	}
 }
