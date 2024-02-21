@@ -24,7 +24,7 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
+- Solution URL: [Click to open](https://www.frontendmentor.io/solutions/html-and-css-qr-code-frontend-challenge-v1k8cJyRJI)
 - Live Site URL: [Click to open](https://gleeful-cactus-002fc8.netlify.app/)
 
 ## My process
