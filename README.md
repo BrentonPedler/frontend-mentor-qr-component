@@ -37,7 +37,7 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 
 ### What I learned
 
-Use this section to recap basic HTML CSS and design conversion
+Attention to detail
 
 ### Continued development
 
